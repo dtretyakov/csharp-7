@@ -49,4 +49,10 @@ namespace ConsoleApp1
             }
         }
     }
+    
+    public class MyClass {
+        public string Hello () {
+            return "Hello";
+        }
+    }
 }
